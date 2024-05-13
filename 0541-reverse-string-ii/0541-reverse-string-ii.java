@@ -27,14 +27,16 @@ class Solution {
             }
         }
 
-        sb.append(reverseSub(temp));
+        if(temp.length() != 0){
+            sb.append(reverseSub(temp));
+        }
       
         return sb.toString();
     }
 
     public String reverseSub(String s){
-        StringBuilder sb = new StringBuilder();
-        return sb.append(s).reverse().toString();
+        StringBuilder sb = new StringBuilder(s);
+        return sb.reverse().toString();
     }
 }
 
