@@ -2,38 +2,29 @@ class Solution {
     public boolean checkRecord(String s) {
         int countA = 0;
         int countL = 0;
+
         int count = 0;
 
         char temp = 'P';
-        for(char c: s.toCharArray()){
-            if(c == 'A'){
+        for(int i=0; i<s.length(); i++){
+            if(s.charAt(i) == 'A'){
                 countA++;
-            }else if(c == 'L'){
+            }else if(s.charAt(i) == 'L'){
                 count++;
             }
 
 
-            if(temp == 'L' && c != 'L'){
+            if(temp == 'L' && s.charAt(i) != 'L' || i == s.length()-1 && s.charAt(i) == 'L'){
                countL = Math.max(countL, count);
                count = 0;
             }
 
-            temp = c;
-
+            temp = s.charAt(i);
 
             if(countA >= 2 || countL >= 3){
                 return false;
             }
 
-        }
-
-        if(temp == 'L'){
-            countL = Math.max(countL, count);
-            count = 0;
-        }
-
-         if(countA >= 2 || countL >= 3){
-                return false;
         }
 
         return true;
