@@ -1,6 +1,23 @@
 class Solution {
     public int findLHS(int[] nums) {
         int ans = 0;
+        // int l = 0;
+
+
+        // Arrays.sort(nums);
+        // for(int r=0; r<nums.length; r++){
+        //     while(nums[r] - nums[l] > 1) {
+        //         l++;
+        //     }
+        //     System.out.println(l);
+
+        //     if (nums[r] - nums[l] == 1) {
+        //         ans = Math.max(ans, r - l + 1);
+        //     }
+        // }
+
+
+
         Map<Integer, Integer> map = new TreeMap<>();
         for(int n: nums){
             map.put(n, map.getOrDefault(n, 0)+1);
@@ -28,3 +45,6 @@ class Solution {
 // 3 -> 4 ?
 // 5 -> 6 ?
 // 7 -> 8 ?
+
+///sort [1,2,2,2,3,3,5,7]
+
