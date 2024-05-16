@@ -22,10 +22,9 @@ class Solution {
         }
 
         double ans = prefixSum[k-1]/k;
-        int start = 0;
-        for(int end=k; end<nums.length; end++){
-            ans = Math.max(ans, (prefixSum[end] - prefixSum[start])/k);
-            start++;
+
+        for(int i=k; i<nums.length; i++){
+            ans = Math.max(ans, (prefixSum[i] - prefixSum[i-k])/k);
         }
 
         return ans;    
@@ -40,6 +39,6 @@ class Solution {
 
 //prefixSum [1, 13, 8, 2, 52, 55]
 //begin index 0-3 -> prefixSum[k-1]
-// index 1-4 -> prefixSum[4] - prefixSum[0]
-// index 2-5 -> prefixSum[5] - prefixSum[2]
+// index 1-4 -> prefixSum[4 = k+0] - prefixSum[0]
+// index 2-5 -> prefixSum[5 = k+1] - prefixSum[1]
 
