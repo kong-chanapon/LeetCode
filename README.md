@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/63070028/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/63070028/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/63070028/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/63070028/LeetCode/tree/master/1039-find-the-town-judge) |
 # String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/63070028/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/63070028/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1039-find-the-town-judge](https://github.com/63070028/LeetCode/tree/master/1039-find-the-town-judge) |
 # Math
 |  |
 | ------- |
@@ -39,3 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/63070028/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+# Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/63070028/LeetCode/tree/master/1039-find-the-town-judge) |
