@@ -3,24 +3,13 @@ class Solution {
         int ans = 0;
         Arrays.sort(nums);
         for(int i=2; i<nums.length; i++){
-            int[] t = new int[3];
-            t[0] = nums[i-2];
-            t[1] = nums[i-1];
-            t[2] = nums[i];
-
-            ans = Math.max(ans, perimeterTriangle(t));
+            if(nums[i-2]+nums[i-1] > nums[i]){
+                ans = Math.max(ans, nums[i-2]+nums[i-1]+nums[i]);
+            }
 
         }
 
         return ans;
-    }
-
-    private int perimeterTriangle(int[] t){
-        if(t[0]+t[1] > t[2]){
-            return t[0]+t[1]+t[2];
-        }
-
-        return 0;
     }
 }
 
