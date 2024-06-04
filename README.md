@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/63070028/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/63070028/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/63070028/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
 # String
 |  |
 | ------- |
@@ -45,3 +46,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/63070028/LeetCode/tree/master/1039-find-the-town-judge) |
+# Matrix
+|  |
+| ------- |
+| [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
+# Simulation
+|  |
+| ------- |
+| [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
