@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/63070028/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/63070028/LeetCode/tree/master/1044-find-common-characters) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/63070028/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 # String
 |  |
 | ------- |
@@ -36,11 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/63070028/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/63070028/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 # Sorting
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/63070028/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/63070028/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/63070028/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 # Two Pointers
 |  |
 | ------- |
