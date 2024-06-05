@@ -60,3 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/63070028/LeetCode/tree/master/1054-complement-of-base-10-integer) |
