@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/63070028/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1127-last-stone-weight](https://github.com/63070028/LeetCode/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
 # String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/63070028/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/63070028/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
 # Two Pointers
 |  |
 | ------- |
@@ -101,3 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/63070028/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
