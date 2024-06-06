@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/63070028/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/63070028/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/63070028/LeetCode/tree/master/1086-divisor-game) |
 # Greedy
 |  |
 | ------- |
@@ -71,3 +72,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/63070028/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/63070028/LeetCode/tree/master/1086-divisor-game) |
+# Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/63070028/LeetCode/tree/master/1086-divisor-game) |
+# Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/63070028/LeetCode/tree/master/1086-divisor-game) |
