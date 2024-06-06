@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/63070028/LeetCode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/63070028/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/63070028/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 # String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/63070028/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/63070028/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/63070028/LeetCode/tree/master/1086-divisor-game) |
+| [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 # Greedy
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/63070028/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/63070028/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/63070028/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 # Two Pointers
 |  |
 | ------- |
@@ -60,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 # Simulation
 |  |
 | ------- |
@@ -84,3 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/63070028/LeetCode/tree/master/1086-divisor-game) |
+# Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
