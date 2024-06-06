@@ -97,3 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/63070028/LeetCode/tree/master/1127-last-stone-weight) |
+# Database
+|  |
+| ------- |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/63070028/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
