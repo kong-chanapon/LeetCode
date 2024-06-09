@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1127-last-stone-weight](https://github.com/63070028/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/63070028/LeetCode/tree/master/1168-duplicate-zeros) |
 # String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/63070028/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/63070028/LeetCode/tree/master/1168-duplicate-zeros) |
 # Graph
 |  |
 | ------- |
