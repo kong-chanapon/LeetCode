@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/63070028/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/63070028/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/63070028/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1260-day-of-the-year](https://github.com/63070028/LeetCode/tree/master/1260-day-of-the-year) |
 # Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/63070028/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/63070028/LeetCode/tree/master/1195-distribute-candies-to-people) |
+| [1260-day-of-the-year](https://github.com/63070028/LeetCode/tree/master/1260-day-of-the-year) |
 # Greedy
 |  |
 | ------- |
