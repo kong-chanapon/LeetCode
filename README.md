@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/63070028/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/63070028/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
 # String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/63070028/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/63070028/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/63070028/LeetCode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
 # Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/63070028/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -116,3 +119,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
