@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1156-occurrences-after-bigram](https://github.com/63070028/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/63070028/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/63070028/LeetCode/tree/master/1260-day-of-the-year) |
+| [1297-maximum-number-of-balloons](https://github.com/63070028/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 # Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/63070028/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/63070028/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
+| [1297-maximum-number-of-balloons](https://github.com/63070028/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 # Math
 |  |
 | ------- |
@@ -129,3 +131,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
+| [1297-maximum-number-of-balloons](https://github.com/63070028/LeetCode/tree/master/1297-maximum-number-of-balloons) |
