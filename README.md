@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1195-distribute-candies-to-people](https://github.com/63070028/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1260-day-of-the-year](https://github.com/63070028/LeetCode/tree/master/1260-day-of-the-year) |
 | [1279-prime-arrangements](https://github.com/63070028/LeetCode/tree/master/1279-prime-arrangements) |
+| [1289-day-of-the-week](https://github.com/63070028/LeetCode/tree/master/1289-day-of-the-week) |
 # Greedy
 |  |
 | ------- |
