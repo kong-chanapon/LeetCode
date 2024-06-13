@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/63070028/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/63070028/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
+| [1287-distance-between-bus-stops](https://github.com/63070028/LeetCode/tree/master/1287-distance-between-bus-stops) |
 # String
 |  |
 | ------- |
