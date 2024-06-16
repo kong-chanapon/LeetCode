@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/63070028/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/63070028/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/63070028/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1386-shift-2d-grid](https://github.com/63070028/LeetCode/tree/master/1386-shift-2d-grid) |
 # String
 |  |
 | ------- |
@@ -97,11 +98,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1386-shift-2d-grid](https://github.com/63070028/LeetCode/tree/master/1386-shift-2d-grid) |
 # Simulation
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1195-distribute-candies-to-people](https://github.com/63070028/LeetCode/tree/master/1195-distribute-candies-to-people) |
+| [1386-shift-2d-grid](https://github.com/63070028/LeetCode/tree/master/1386-shift-2d-grid) |
 # Bit Manipulation
 |  |
 | ------- |
