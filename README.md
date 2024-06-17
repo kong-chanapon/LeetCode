@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/63070028/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/63070028/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-shift-2d-grid](https://github.com/63070028/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/63070028/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 # String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/63070028/LeetCode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/63070028/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/63070028/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/63070028/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 # Math
 |  |
 | ------- |
@@ -99,12 +101,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/63070028/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/63070028/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/63070028/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 # Simulation
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/63070028/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1195-distribute-candies-to-people](https://github.com/63070028/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1386-shift-2d-grid](https://github.com/63070028/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/63070028/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 # Bit Manipulation
 |  |
 | ------- |
