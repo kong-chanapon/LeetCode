@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/63070028/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-shift-2d-grid](https://github.com/63070028/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/63070028/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/63070028/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 # String
 |  |
 | ------- |
