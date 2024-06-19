@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1174-sales-analysis-iii](https://github.com/63070028/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/63070028/LeetCode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/63070028/LeetCode/tree/master/1301-reformat-department-table) |
+| [1390-average-selling-price](https://github.com/63070028/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/63070028/LeetCode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/63070028/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/63070028/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
