@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/63070028/LeetCode/tree/master/0595-big-countries) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/63070028/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/63070028/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1301-reformat-department-table](https://github.com/63070028/LeetCode/tree/master/1301-reformat-department-table) |
