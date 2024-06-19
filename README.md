@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/63070028/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/63070028/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/63070028/LeetCode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/63070028/LeetCode/tree/master/0595-big-countries) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/63070028/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
