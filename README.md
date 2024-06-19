@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1174-sales-analysis-iii](https://github.com/63070028/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/63070028/LeetCode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/63070028/LeetCode/tree/master/1301-reformat-department-table) |
+| [1827-invalid-tweets](https://github.com/63070028/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/63070028/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 # Counting Sort
 |  |
