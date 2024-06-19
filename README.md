@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-project-employees-i](https://github.com/63070028/LeetCode/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/63070028/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/63070028/LeetCode/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/63070028/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/63070028/LeetCode/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/63070028/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/63070028/LeetCode/tree/master/1338-queries-quality-and-percentage) |
