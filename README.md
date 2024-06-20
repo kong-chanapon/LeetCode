@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-day-of-the-year](https://github.com/63070028/LeetCode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/63070028/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/63070028/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/63070028/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 # Hash Table
 |  |
 | ------- |
