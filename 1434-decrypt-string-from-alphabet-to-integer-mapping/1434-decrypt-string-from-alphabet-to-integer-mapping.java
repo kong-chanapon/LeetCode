@@ -7,7 +7,6 @@ class Solution {
             if(s.charAt(index) == '#'){
                 digits += String.valueOf(s.charAt(index-2));
                 digits += String.valueOf(s.charAt(index-1));
-                System.out.println(digits);
                 ans.insert(0, (char)(Integer.valueOf(digits)+96));
                 index -= 3;
                 digits = "";
