@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/63070028/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/63070028/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/63070028/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/63070028/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2048-build-array-from-permutation](https://github.com/63070028/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/63070028/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
