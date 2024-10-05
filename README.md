@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/63070028/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/63070028/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/63070028/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2048-build-array-from-permutation](https://github.com/63070028/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/63070028/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/63070028/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
